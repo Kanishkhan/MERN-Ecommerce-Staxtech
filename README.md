@@ -1,52 +1,46 @@
-Check out my website 👇  
-https://nrgk-fashion.netlify.app/
+# Staxtech: MERN Stack E-commerce Application 🛍️
 
-NRGK Fashion — Modern E-Commerce Clothing Store
+**Project Status:** 🚧 **Under Construction** (Phase 1: Frontend Completed)
 
-NRGK Fashion is a fully responsive and visually appealing e-commerce website designed to showcase a curated range of fashion products across categories such as Men, Women, Kids, and Shoes. The platform focuses on delivering a clean, modern shopping experience with smooth navigation, aesthetic product displays, and clearly structured sections for easy browsing.
+**Staxtech** (also known as *NRGK Fashion*) is a comprehensive e-commerce platform being developed using the **MERN** (MongoDB, Express, React, Node.js) stack.
 
-This project represents a complete front-end implementation of an online fashion store. It includes a minimal yet elegant user interface that highlights product collections, promotional banners, and essential pages like FAQs and Contact. The primary objective of NRGK Fashion is to simulate the look and feel of a real-world retail website, making it ideal for portfolio presentation, UI/UX demonstration, and e-commerce concept development.
+## 🚀 Current Progress: Phase 1 (Frontend UI)
 
-Key Highlights
+The initial phase of the project focuses on delivering a pixel-perfect, responsive user interface. Currently implemented using High-Fidelity **HTML5, CSS3, and JavaScript**, this frontend serves as the foundation for the upcoming React migration and backend integration.
 
-Professionally designed layout with a modern fashion-brand aesthetic.
+### Key Features Implemented:
+-   **Modern UI/UX**: A clean, aesthetic fashion store layout suitable for Men, Women, and Kids collections.
+-   **Responsive Design**: Fully optimized for Desktop, Tablet, and Mobile screens.
+-   **Static Navigation**: Functional routing between Home, Shop, Products, and Contact pages.
+-   **Visual Assets**: High-quality imagery and branding elements (sourced from `UID.zip`).
 
-Categorized product sections: Mens, Women, Kids, and Shoes.
+## 🛠️ Technology Stack
 
-Clean typography and image-centric design for premium visual appeal.
+### Current Implementation (Frontend)
+-   **Languages**: HTML5, CSS3, JavaScript.
+-   **Styling**: Custom CSS with responsive media queries.
+-   **Assets**: Optimized images for web performance.
 
-Fully responsive across mobile, tablet, and desktop devices.
+### Future Implementation (Full Stack)
+-   **Frontend Migration**: React.js, Redux Toolkit, Tailwind CSS.
+-   **Backend**: Node.js, Express.js REST API.
+-   **Database**: MongoDB (Product Data, User Profiles).
+-   **Payment**: Stripe Integration.
 
-Smooth page navigation with intuitive user flow for online shoppers.
+## 🗺️ Development Roadmap
 
-Informational pages (FAQ, Contact) that simulate real store support features.
+-   [x] **Phase 1: UI/UX Design & Static Implementation** (Completed)
+-   [ ] **Phase 2: React Migration** (Componentizing the existing HTML/CSS)
+-   [ ] **Phase 3: Backend Setup** (API creation for Products/Users/Auth)
+-   [ ] **Phase 4: Database Integration** (Connecting MongoDB)
+-   [ ] **Phase 5: Full Stack Deployment**
 
-Deployed on Netlify for fast loading and easy access.
+## 📂 Project Structure
 
-Project Intent
+The current source code is organized as follows:
+-   `UID.zip` / `extracted_source`: Contains the raw HTML/CSS/JS source files and assets.
 
-The project showcases my ability to design and develop a structured, user-friendly front-end shopping interface. It reflects skills in layout design, styling, brand presentation, and building a cohesive digital experience suitable for fashion e-commerce. The site serves as a demonstration of:
+## 👤 Author
 
-UI/UX design thinking
-
-Front-end development
-
-Branding consistency
-
-Component-based layout creation
-
-Deploying static websites
-
-Tech Stack
-
-HTML5 — semantic structure
-
-CSS3 — responsive styling, layout design
-
-JavaScript — interactivity and UI behavior
-
-Netlify — deployment and hosting
-
-Purpose of the Website
-
-NRGK Fashion is crafted as a realistic fashion-store prototype that can be extended into a full e-commerce application with features like product filtering, cart system, authentication, and backend integration. It currently emphasizes presentation, design quality, and a clean user experience—making it a strong portfolio project.
+**Kanishk Khan**
+-   GitHub: [@Kanishkhan](https://github.com/Kanishkhan)
